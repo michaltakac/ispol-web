@@ -1,0 +1,3 @@
+# Informovaná spoločnosť, o.z.
+
+ISPOL, o.z. je občianske združenie, ktorého cieľom je vzdelávanie, rozvoj a podpora verejnosti v oblasti používania informačno-technologických aplikácií pre zvýšenie životnej úrovne a zlepšenie kvality života. V súčasnosti je činnosť združenia zameraná predovšetkým na technológiu blockchain a proof-of-work kryptomeny, pre ktoré zabezpečuje prevádzku lokálnych verejných uzlov. Taktiež realizuje workshopy a prednášky, ponúka služby pre fyzické a právnické osoby s cieľom akceptovať kryptomeny ako platidlo. Zároveň je aj zakladateľom projektu Paralelná Polis v Košiciach, ktorá v súčasnosti už existuje v Prahe a Bratislave.
